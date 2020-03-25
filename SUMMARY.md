@@ -46,6 +46,7 @@
 
 ## Observations
 
-* [2020](observations/2020.md)
+* [Calendar](observations/calendar.md)
 * [2019](observations/2019.md)
+* [2020](observations/2020.md)
 

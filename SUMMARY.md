@@ -2,8 +2,11 @@
 
 * [FUNGID](README.md)
 
+## Identification
+
 ## Identification <a id="id"></a>
 
+* [Identification](id/identification.md)
 * [Mushroom Identification](id/mushroom-identification/README.md)
   * [Stems](id/mushroom-identification/stems.md)
   * [Caps](id/mushroom-identification/caps.md)
